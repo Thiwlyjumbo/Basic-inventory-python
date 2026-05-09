@@ -1,0 +1,2 @@
+# Basic-inventory-python
+inventory
